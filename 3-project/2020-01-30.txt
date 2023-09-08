@@ -1,0 +1,41 @@
+- dashboard page (https://www.thegiftguide.com/dashboard)
+
+- wish list page (https://www.thegiftguide.com/account/manage-wishlist)
+	add to wish list page (https://www.thegiftguide.com/account/add-to-wishlist)
+	update to wish list page (https://www.thegiftguide.com/wishlist/updateitem/487c0d5d-85d5-4311-86f5-895792a877b4)
+
+- friends page (https://www.thegiftguide.com/account/my-friends)
+	find friend page (https://www.thegiftguide.com/account/find-friends)
+	detail page (https://www.thegiftguide.com/communityprofile/YanikSas)
+	
+- calendar page (https://www.thegiftguide.com/account/my-calendar)
+
+- gift guide page (https://www.thegiftguide.com/gift-ideas)
+	gift item page(https://www.thegiftguide.com/Item/Crewneck-Cashmere-Sweater--Black)
+
+- search page (https://www.thegiftguide.com/search)
+
+- blog page (https://www.thegiftguide.com/blog)
+
+- profile page (https://www.thegiftguide.com/my-profile)
+
+- account page (https://www.thegiftguide.com/account/my-account)
+	add event page (https://www.thegiftguide.com/account/add-your-event-1)	
+
+- account setting page (https://www.thegiftguide.com/account/settings)
+
+- logn/signup page (sidebar)
+
+- create account page (https://www.thegiftguide.com/account/create-accont)
+
+- social sign 
+
+
+static site
+
+- feedback page (https://www.thegiftguide.com/customer-survey)
+- about us page (https://www.thegiftguide.com/about)
+- contact us page (slidebar page)
+
+총 22페지입니다
+그리고 admin관련 페지를 보지 못했기때문에 거기에 있는 내용은 확인 못했습니다.

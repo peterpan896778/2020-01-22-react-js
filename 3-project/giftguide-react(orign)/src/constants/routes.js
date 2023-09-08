@@ -1,0 +1,15 @@
+export const DASHBOARD_PAGE = "/dashboard";
+export const ABOUT_PAGE = "/about";
+export const ACCOUNT_PAGE = "/account";
+export const ACCOUNT_SETTING_PAGE = "/account_setting";
+export const UPDATE_WISH_ITEM_PAGE = "/update_wish_item";
+export const BLOG_PAGE = "/blog";
+export const CALENDAR_PAGE = "/calendar";
+export const FEEDBACK_PAGE = "/feedback";
+export const FRIENDS_PAGE = "/friends";
+export const WISH_LIST_PAGE = "/wish_list";
+export const SEARCH_PAGE = "/search";
+export const PROFILE_PAGE = "/profile";
+export const GIFTGUIDES_PAGE = "/gift_guides";
+export const PRIVACY_POLICY_PAGE = "/privacy_policy";
+export const CONTACT_PAGE = "/contact";

@@ -1,0 +1,24 @@
+.bootstrap-gray-button {
+  background-color: #333333;
+  color: white;
+}
+
+.bootstrap-gray-button:hover {
+  background-color: #666666;
+  color: white;
+}
+
+.bootstrap-white-button {
+  background-color: white;
+  color: black;
+}
+
+.bootstrap-white-button:hover {
+  background-color: #666;
+  color: white;
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
